@@ -4,6 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Orestis Vravosinos # Website name
+logo = "nyu_long_white.png"
 baseURL: 'https://example.com/' # Website URL
 
 ############################
