@@ -4,7 +4,7 @@ name = "my_font_set"
 
 # Optional Google font URL
 #google_fonts = "Cormorant Garamond|Cormorant Garamond|Cormorant Garamond+Cormorant Garamond"
-google_fonts = "Dosis:400,400italic,700,700italic"
+google_fonts = "family=Dosis:wght@200;300;400;500;600;700;800"
 
 # Font families
 heading_font = "Dosis"
