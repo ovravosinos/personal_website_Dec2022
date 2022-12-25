@@ -1,11 +1,11 @@
 ---
-title: 'On the determinants of bitcoin returns: A LASSO approach'
+title: 'The effects of markets, uncertainty and search intensity on bitcoin returns'
 authors:
 - Theodore Panagiotidis
 - Thanasis Stengos
 - admin
-date: '2018-12-01T19:37:01-04:00'
-doi: '10.1016/j.frl.2018.03.016'
+date: '2019-05-01T19:37:01-04:00'
+doi: '10.1016/j.irfa.2018.11.002'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -17,11 +17,9 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Finance Research Letters*, 27: 235-240"
-#publication_short: "In *ICA*"
-
-abstract: We examine the significance of twenty-one potential drivers of bitcoin returns for the period 2010–2017 (2533 daily observations). Within a LASSO framework, we examine the effects of factors such as stock market returns, exchange rates, gold and oil returns, FED’s and ECB’s rates and internet trends on bitcoin returns for alternate time periods. Search intensity and gold returns emerge as the most important variables for bitcoin returns.
-
+publication = "*International Review of Financial Analysis*, 63: 220-242"
+#publication_short = "In *ICA*"
+abstract: We review the literature and examine the effects of shocks on bitcoin returns. We assess the effects of factors such as stock market returns, exchange rates, gold and oil returns, FED's and ECB's rates and internet trends on bitcoin returns. Alternative VAR and FAVAR models are employed and generalized as well as local impulse response functions are produced. Our results reveal (i) a significant interaction between bitcoin and traditional stock markets, (ii) a weaker interaction with FX markets and the macroeconomy and (iii) an anemic importance of popularity measures. Lastly, we reveal the increased impact of Asian markets on bitcoin compared to other geographically-defined markets, which however appears to have waned in the last two years after the Chinese regulatory interventions and the sudden contraction of CNY's share in bitcoin trading volume.
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
