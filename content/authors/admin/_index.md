@@ -51,27 +51,29 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
+  
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
  #   label: Follow me on Twitter
  #   display:
  #     header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: cv
+    icon_pack: ai
+    link: uploads/CV_Orestis_Vravosinos.pdf
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=4VhgUEQAAAAJ&hl
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/orestis-vravosinos
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
- # - icon: cv
- #   icon_pack: ai
- #   link: uploads/CV_Orestis_Vravosinos.pdf
+  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'vravosinos.orestis@nyu.edu'
