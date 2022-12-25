@@ -18,6 +18,7 @@ sections:
     id: working_papers
     content:
       title: Working papers
+      count: 0
       # text: |-
       #  {{% callout note %}}
       #  Quickly discover relevant content by [filtering publications](./publication/).
@@ -33,6 +34,7 @@ sections:
     id: publications
     content:
       title: Publications
+      count: 0
       # text: |-
       #  {{% callout note %}}
       #  Quickly discover relevant content by [filtering publications](./publication/).
