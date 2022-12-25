@@ -14,6 +14,7 @@ sections:
       text:
     design:
       columns: '2'
+      view: about
   - block: collection
     id: working_papers
     content:
