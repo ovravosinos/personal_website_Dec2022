@@ -15,6 +15,7 @@ sections:
     design:
       columns: '2'
   - block: collection
+    id: working_papers
     content:
       title: Working papers
       # text: |-
@@ -29,6 +30,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
+    id: publications
     content:
       title: Publications
       # text: |-
