@@ -43,12 +43,12 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+    notice: '&copy; 2022, Orestis Vravosinos &#183; Photo &copy; Francis: Courtesy of NYU Photo Bureau'
+    # license:
+    #  enable: true
+    #  allow_derivatives: false
+    #  share_alike: true
+    #  allow_commercial: false
 
 # Localization
 
