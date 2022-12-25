@@ -4,7 +4,6 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Test # Website name
-# logo = 'nyu_long_white.png'
 baseURL: 'https://example.com/' # Website URL
 
 ############################
