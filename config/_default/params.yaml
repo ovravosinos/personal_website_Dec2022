@@ -30,7 +30,7 @@ marketing:
 # Site header
 
 header:
-  navbar:
+  mynavbar:
     enable: true
     align: r
     show_logo: true
