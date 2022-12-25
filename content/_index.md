@@ -14,6 +14,7 @@ sections:
       text:
     design:
       columns: '2'
+      view: interests
   - block: collection
     id: working_papers
     content:
@@ -25,7 +26,7 @@ sections:
       #  {{% /callout %}}
       filters:
         folders:
-          - publication
+          - working_papers
         exclude_featured: true
     design:
       columns: '2'
