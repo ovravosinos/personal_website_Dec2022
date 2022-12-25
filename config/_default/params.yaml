@@ -9,7 +9,7 @@ appearance:
   theme_day: mytheme
   theme_night: mytheme
   font: my_font_set
-  font_size: xl
+  font_size: l
 
 # SEO
 
@@ -30,7 +30,7 @@ marketing:
 # Site header
 
 header:
-  mynavbar:
+  navbar:
     enable: true
     align: r
     show_logo: true
