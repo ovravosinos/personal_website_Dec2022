@@ -6,7 +6,7 @@ type: landing
 
 sections:
   - block: about.avatar
-    id: about_avatar
+    id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -84,13 +84,13 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
+      # form:
+      #  provider: netlify
+      #  formspree:
+      #    id:
+      #  netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      #    captcha: false
     design:
       columns: '2'
 ---
