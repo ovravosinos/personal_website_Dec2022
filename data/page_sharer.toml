@@ -10,7 +10,7 @@
   enable = false
 
 [[buttons]]
-  id = "google-scholar"
+  id = "googlescholar"
   url = "https://scholar.google.com/citations?user=4VhgUEQAAAAJ&hl"
   title = "Google Scholar"
   icon_pack = "fab"
