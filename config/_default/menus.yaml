@@ -13,7 +13,7 @@ main:
   - name: "Working papers"
     url: '#working_papers'
     weight: 3
-  - name: Publications"
+  - name: Publications
     url: 'publications'
     weight: 4
   - name: 'Teaching'
