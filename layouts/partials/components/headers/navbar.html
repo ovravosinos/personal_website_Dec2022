@@ -11,7 +11,7 @@
 {{ $logo := "" }}
 {{ if $has_logo }}
   {{ $logo = (partial "functions/get_logo" (dict "constraint" "max_height" "size" 120)) }}
-  <img src="{{ $logo.RelPermalink }}" style="height: 55px;" alt="Logo">
+  <img src="{{ $logo.RelPermalink }}" style="height: 35px;" alt="Logo">
 {{ end }}
 
 <header>
