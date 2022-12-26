@@ -30,6 +30,9 @@ sections:
     design:
       columns: '2'
       view: citation
+      spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["20px", "0", "20px", "0"]
   - block: collection
     id: publications
     content:
