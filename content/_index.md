@@ -30,7 +30,6 @@ sections:
     design:
       columns: '2'
       view: citation
-      padding: ["10px", "0", "10px", "0"]
   - block: collection
     id: publications
     content:
