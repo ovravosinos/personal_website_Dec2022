@@ -28,7 +28,7 @@
   <div class="avatar-wrapper">
   {{ $avatar_image :=  $avatar.Fill "512x512 Center" }}
   <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}"
-       style="width: 256px; height: 256px;">
+       style="width: 150px; height: 150px;">
   {{with $person.status.icon}}<span class="avatar-emoji">{{.|emojify}}</span>{{end}}
 </div>
   {{ end }}
