@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'New York University'
+    description: 'PhD student in economics at New York University'
+    twitter:
   analytics:
     google_analytics: 'G-V06B2NG01Q'
     baidu_tongji: ''
