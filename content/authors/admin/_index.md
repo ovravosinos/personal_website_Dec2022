@@ -1,6 +1,6 @@
 ---
 # Display name
-title: **Orestis Vravosinos**
+title: Orestis Vravosinos
 
 # Full name (for SEO)
 first_name: Orestis
