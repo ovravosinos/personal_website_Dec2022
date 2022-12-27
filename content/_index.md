@@ -16,6 +16,9 @@ sections:
       columns: '1'
   - block: collection
     id: working_papers
+    design:
+      background:
+        image: background.jpg
     content:
       title: Working papers
       count: 0
