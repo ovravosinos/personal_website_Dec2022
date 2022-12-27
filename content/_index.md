@@ -30,8 +30,6 @@ sections:
     design:
       columns: '2'
       view: citation
-      background:
-        image: background.jpg
   - block: collection
     id: publications
     content:
