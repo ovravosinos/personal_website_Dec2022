@@ -14,7 +14,7 @@ sections:
       text:
     design:
       background:
-        image: background.jpg
+        image*: background.jpg
   - block: collection
     id: working_papers
     content:
