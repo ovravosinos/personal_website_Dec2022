@@ -14,6 +14,7 @@ sections:
       text:
     design:
       columns: '1'
+    design:
       background:
        # Name of image in `assets/media/`.
        image: background.jpg
