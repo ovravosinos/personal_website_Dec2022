@@ -7,16 +7,14 @@ type: landing
 sections:
   - block: about.avatar
     id: about
-    design:
-      background:
-        image*: background.jpg
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
     design:
-      columns: '1'
+      background:
+        image: background.jpg
   - block: collection
     id: working_papers
     content:
