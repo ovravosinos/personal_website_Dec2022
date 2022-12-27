@@ -13,8 +13,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
     design:
-      background:
-        image*: background.jpg
+      columns: '1'
   - block: collection
     id: working_papers
     content:
