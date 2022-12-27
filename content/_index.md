@@ -15,7 +15,8 @@ sections:
     design:
       background:
         image: background.jpg
-        image_darken: 0.6
+           image_darken: 0.6
+           image_size: contain
     design:
       columns: '1'
   - block: collection
