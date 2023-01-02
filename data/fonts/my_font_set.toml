@@ -9,7 +9,7 @@ google_fonts = "family=Dosis:wght@200;300;400;500;600;700;800&family=Josefin+San
 # Font families
 heading_font = "Josefin Sans"
 body_font = "Josefin Sans"
-nav_font = "Josefin Sans"
+nav_font = "Montserrat"
 mono_font = "Josefin Sans"
 
 # Font size
