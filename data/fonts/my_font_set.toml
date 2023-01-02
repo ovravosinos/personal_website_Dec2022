@@ -7,7 +7,7 @@ name = "my_font_set"
 google_fonts = "family=Dosis:wght@200;300;400;500;600;700;800"
 
 # Font families
-heading_font = "Dosis"
+heading_font = "Gotham-Book"
 body_font = "Dosis"
 nav_font = "Dosis"
 mono_font = "Dosis"
