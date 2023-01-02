@@ -8,9 +8,9 @@ google_fonts = "family=Dosis:wght@200;300;400;500;600;700;800&family=Montserrat:
 
 # Font families
 heading_font = "Montserrat"
-body_font = "Montserrat"
+body_font = "Dosis"
 nav_font = "Montserrat"
-mono_font = "Montserrat"
+mono_font = "Dosis"
 
 # Font size
 font_size = "32"
