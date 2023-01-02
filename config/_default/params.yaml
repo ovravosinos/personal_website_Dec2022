@@ -10,6 +10,8 @@ appearance:
   theme_night: mytheme
   font: my_font_set
   font_size: xl
+  
+plugins_scss = ["custom"]
 
 # SEO
 
