@@ -11,8 +11,6 @@ appearance:
   font: my_font_set
   font_size: xl
   
-plugins_scss = ["custom"]
-
 # SEO
 
 marketing:
