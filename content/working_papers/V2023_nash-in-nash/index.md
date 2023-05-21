@@ -30,7 +30,7 @@ featured: false
 links:
 # - name: Custom Link
 #  url: http://example.org
-url_pdf: 'uploads/Free_entry_in_a_Cournot_market_with_overlapping_ownership.pdf'
+url_pdf: 'uploads/A Nash-in-Nash model of corporate control and oligopolistic competition under common ownership.pdf'
 url_code: 
 url_dataset: 
 url_poster: 
