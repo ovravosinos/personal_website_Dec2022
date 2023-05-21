@@ -30,7 +30,7 @@ featured: false
 links:
 # - name: Custom Link
 #  url: http://example.org
-url_pdf: 'uploads/A Nash-in-Nash model of corporate control and oligopolistic competition under common ownership.pdf'
+url_pdf: 'uploads/A_Nash-in-Nash_model_of_corporate_control_and_oligopolistic_competition_under_common_ownership.pdf'
 url_code: 
 url_dataset: 
 url_poster: 
