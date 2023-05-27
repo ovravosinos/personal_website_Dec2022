@@ -20,8 +20,7 @@ publication_types: ["2"]
 publication: "*Journal of Risk and Financial Management*, 13(2), 33"
 #publication_short = "In *ICA*"
 
-abstract: We examine the significance of twenty-one potential drivers of bitcoin returns for the period 2010–2017 (2533 daily observations). Within a LASSO framework, we examine the effects of factors such as stock market returns, exchange rates, gold and oil returns, FED’s and ECB’s rates and internet trends on bitcoin returns for alternate time periods. Search intensity and gold returns emerge as the most important variables for bitcoin returns.
-
+abstract: We examine the significance of fourty-one potential covariates of bitcoin returns for the period 2010–2018 (2872 daily observations). The recently introduced principal component-guided sparse regression is employed. We reveal that economic policy uncertainty and stock market volatility are among the most important variables for bitcoin. We also trace strong evidence of bubbly bitcoin behavior in the 2017–2018 period.
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
