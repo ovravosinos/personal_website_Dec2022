@@ -3,7 +3,7 @@ title: "Regret, blame, and division of responsibility in games"
 authors:
 - admin
 date: "2023-10-20T19:37:01-04:00"
-# doi: "10.2139/ssrn.4454433"
+doi: "10.2139/ssrn.4602748"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
