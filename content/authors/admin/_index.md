@@ -26,7 +26,7 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Microeconomic theory
+  - Applied theory
   - Experimental economics
 
 # Education to show in About widget
@@ -79,5 +79,5 @@ email: 'vravosinosorestis@gmail.com'
 highlight_name: false
 ---
 
-**About:** I am a PhD student in Economics at New York University. My research interests lie in the areas of microeconomic theory and experimental economics.
+**About:** I am a PhD student in Economics at New York University. My research interests lie in the areas of applied theory and experimental economics.
 {style="text-align: justify;"}
