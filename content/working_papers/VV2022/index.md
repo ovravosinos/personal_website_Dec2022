@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "test"
+publication: "R&R at American Economic Journal: Microeconomics"
 publication_short: ""
 
 abstract: We examine the effects of overlapping ownership in a Cournot oligopoly where existing firms with overlapping ownership decide whether to enter a new market. We show that entry is either monotonically decreasing in the degree of overlapping ownership or has an inverted-U relationship with it. Although entry is excessive under non-decreasing returns to scale, with decreasing returns to scale entry (in contrast to standard results) is insufficient under high levels of overlapping ownership. Under standard assumptions, we find that overlapping ownership magnifies the negative impact of an increase of entry costs on entry providing a rationale for empirical evidence.
