@@ -4,7 +4,7 @@ authors:
 - Xavier Vives
 - admin
 date: "2024-05-05T19:37:01-04:00"
-doi: "10.2139/ssrn.4175664"
+doi: "10.1257/mic.20230331"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-01-01T00:00:00Z"
