@@ -1,5 +1,5 @@
 ---
-title: 'Bidimensional_screening_with_substitutable_attributes'
+title: 'Bidimensional screening with substitutable attributes'
 authors:
 - admin
 date: '2024-12-01T19:37:01-04:00'
@@ -30,7 +30,7 @@ featured: false
 links:
 # - name: Custom Link
 #  url: http://example.org
-url_pdf: 'uploads/Bidimensional screening with substitutable attributes.pdf'
+url_pdf: 'uploads/JMP_Orestis_Vravosinos.pdf'
 url_code: 
 url_dataset: 
 url_poster: 
