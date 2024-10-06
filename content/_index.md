@@ -15,6 +15,22 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: job_market_paper
+    content:
+      title: Job market paper
+      count: 0
+      # text: |-
+      #  {{% callout note %}}
+      #  Quickly discover relevant content by [filtering publications](./publication/).
+      #  {{% /callout %}}
+      filters:
+        folders:
+          - job_market_paper
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
     id: working_papers
     content:
       title: Working papers
