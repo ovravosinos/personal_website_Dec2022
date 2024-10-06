@@ -15,8 +15,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-#publication: "*Finance Research Letters*, 27: 235-240"
-#publication_short: "In *ICA*"
+publication: ""
+publication_short: ""
 
 abstract: An agent (she) has a bidimensional type consisting of her (hard) evidence and talent, both valued by the principal (he). He decides whether to reward the agent by asking her for evidence and a cheap talk message about her talent and then possibly testing her at a cost. The test score is increasing in evidence and talent. When the test score is less sensitive to talent than talent is valuable to the principal, the agent has incentives to hide evidence to influence how the principal interprets her test score. The optimal mechanism makes two types of errors, both favoring high- over low-evidence agents: (i) it rewards some unworthy (i.e., whom the principal would prefer not to reward) high-evidence agents without testing them, only asking them for evidence, and (ii) among agents who do not have enough evidence to get rewarded without a test, it rewards (after testing) some unworthy high-evidence agents while rejecting some worthy low-evidence ones.
 
