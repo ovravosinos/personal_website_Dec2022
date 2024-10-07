@@ -1,7 +1,7 @@
 ---
 title: "Regret, blame, and division of responsibility in games"
 authors:
-- "**Job market paper:**" Orestis Vravosinos
+- "**Job market paper:** Orestis Vravosinos" 
 date: "2024-10-20T19:37:01-04:00"
 doi: "10.2139/ssrn.4602748"
 
