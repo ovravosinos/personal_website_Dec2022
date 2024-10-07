@@ -1,7 +1,7 @@
 ---
 title: 'Bidimensional screening with substitutable attributes'
 authors:
-- "**Orestis Vravosinos**"
+- JOB MARKET PAPER: Orestis Vravosinos
 date: "2024-10-21T19:37:01-04:00"
 doi: ""
 
