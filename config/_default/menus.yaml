@@ -10,15 +10,12 @@ main:
   - name: CV
     url: uploads/CV_Orestis_Vravosinos.pdf
     weight: 2
-  - name: "Job market paper"
-    url: '#job_market_paper'
-    weight: 3
   - name: "Working papers"
     url: '#working_papers'
-    weight: 4
+    weight: 3
   - name: Publications
     url: '#publications'
-    weight: 5
+    weight: 4
   - name: Contact
     url: '#contact'
-    weight: 6
+    weight: 5
