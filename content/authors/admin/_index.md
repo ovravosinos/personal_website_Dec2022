@@ -79,7 +79,7 @@ email: 'vravosinosorestis@gmail.com'
 highlight_name: false
 ---
 
-**About:** I am a PhD student in Economics at New York University. My research interests lie in the areas of microeconomic theory and experimental economics.
+**About:** I am a PhD student in Economics at New York University. I am a microeconomic theorist and also have interests in experimental economics.
 {style="text-align: justify;"}
 
 I am on the 2024-25 academic job market.
