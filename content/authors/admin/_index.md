@@ -80,4 +80,6 @@ highlight_name: false
 ---
 
 **About:** I am a PhD student in Economics at New York University. My research interests lie in the areas of microeconomic theory and experimental economics.
+
+I am on the 2024-25 academic job market.
 {style="text-align: justify;"}
