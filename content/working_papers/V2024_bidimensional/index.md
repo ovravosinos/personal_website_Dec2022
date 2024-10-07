@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Job Market Paper"
+publication: "**Job Market Paper**"
 publication_short: ""
 
 abstract: |
