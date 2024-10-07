@@ -1,7 +1,7 @@
 ---
 title: 'Bidimensional screening with substitutable attributes'
 authors:
-- "JOB MARKET PAPER: Orestis Vravosinos"
+- admin
 date: "2024-10-21T19:37:01-04:00"
 doi: ""
 
@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Job Market Paper"
 publication_short: ""
 
 abstract: |
