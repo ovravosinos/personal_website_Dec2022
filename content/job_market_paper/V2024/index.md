@@ -2,7 +2,7 @@
 title: 'Bidimensional screening with substitutable attributes'
 authors:
 - admin
-date: '2024-12-01T19:37:01-04:00'
+date: '2024-10-01T19:37:01-04:00'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
