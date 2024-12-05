@@ -1,5 +1,5 @@
 ---
-title: 'Bidimensional screening with substitutable attributes'
+title: 'Multidimensional screening with substitutable attributes'
 authors:
 - admin
 date: "2024-10-21T19:37:01-04:00"
@@ -19,7 +19,7 @@ publication: "**Job Market Paper**"
 publication_short: ""
 
 abstract: |
-An agent (she) has a bidimensional type consisting of her (hard) evidence and talent, both valued by the principal (he). He decides whether to reward the agent by asking her for evidence and a cheap talk message about her talent and then possibly testing her at a cost. The test score is increasing in evidence and talent. When the test score is less sensitive to talent than talent is valuable to the principal, the agent has incentives to hide evidence to influence how the principal interprets her test score. The optimal mechanism makes two types of errors, both favoring high- over low-evidence agents: (i) it rewards some unworthy (i.e., whom the principal would prefer not to reward) high-evidence agents without testing them, only asking them for evidence, and (ii) among agents who do not have enough evidence to get rewarded without a test, it rewards (after testing) some unworthy high-evidence agents while rejecting some worthy low-evidence ones.
+A principal wants to choose whether to accept or reject an agent. The principal can perform a costly test that measures a combination of the agent's valuable qualities without revealing each quality separately. The agent can present evidence on some qualities but not others. I call the latter qualities talent. Although favorable, evidence can make the principal ascribe the test result to a certain quality, thereby negatively affecting his assessment of the agent's talent. Thus, testing may interfere with the agent's incentives to present evidence. Indeed, when the test is less sensitive to talent than talent is valuable to the principal, a conflict arises between the two evaluation methods: (i) testing and (ii) asking for evidence. The optimal mechanism leads to two types of errors, both favoring high- over low-evidence agents: (i) It accepts without testing some unworthy high-evidence agents, and (ii) it accepts after testing some unworthy medium-evidence agents while rejecting some worthy low-evidence ones.
  
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
