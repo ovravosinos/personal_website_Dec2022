@@ -79,7 +79,7 @@ email: 'vravosinosorestis@gmail.com'
 highlight_name: false
 ---
 
-**About:** I am a PhD student in Economics at New York University. I am a microeconomic theorist with diverse interests, including in mechanism design, game theory, and theoretical industrial organization. I also work in behavioral and experimental economics.
+**About:** I am a PhD student in Economics at New York University. I work in microeconomic theory (including mechanism design, game theory, and theoretical industrial organization), behavioral economics, and experimental economics.
 {style="text-align: justify;"}
 
 I am on the 2024-25 job market.
