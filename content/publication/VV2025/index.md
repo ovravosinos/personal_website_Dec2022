@@ -3,7 +3,7 @@ title: "Free entry in a Cournot market with overlapping ownership"
 authors:
 - Xavier Vives
 - admin
-date: "2024-05-05T19:37:01-04:00"
+date: "2025-05-05T19:37:01-04:00"
 doi: "10.2139/ssrn.4175664"
 
 # Schedule page publish date (NOT publication's date).
