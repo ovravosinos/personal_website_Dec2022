@@ -4,7 +4,7 @@ authors:
 - Xavier Vives
 - admin
 date: "2025-05-05T19:37:01-04:00"
-doi: "10.2139/ssrn.4175664"
+doi: "10.1257/mic.20230331"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-01-01T00:00:00Z"
@@ -16,7 +16,7 @@ publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Forthcoming at American Economic Journal: Microeconomics"
+publication: "*American Economic Journal: Microeconomics*, 17(2): 292–320"
 publication_short: ""
 
 abstract: We examine the effects of overlapping ownership in a Cournot oligopoly where existing firms with overlapping ownership decide whether to enter a new market. We show that entry is either monotonically decreasing in the degree of overlapping ownership or has an inverted-U relationship with it. Although entry is excessive under non-decreasing returns to scale, with decreasing returns to scale entry (in contrast to standard results) is insufficient under high levels of overlapping ownership. Under standard assumptions, we find that overlapping ownership magnifies the negative impact of an increase of entry costs on entry providing a rationale for empirical evidence.
