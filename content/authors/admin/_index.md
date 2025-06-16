@@ -27,6 +27,7 @@ bio:
 # Interests to show in About widget
 interests:
   - Microeconomic theory
+  - Industrial Organization
   - Experimental economics
 
 # Education to show in About widget
@@ -82,5 +83,5 @@ highlight_name: false
 **About:** I am a PhD student in Economics at New York University. I work in microeconomic theory (including mechanism design, game theory, industrial organization, and competition policy), behavioral economics, and experimental economics. I have also worked in applied/financial econometrics.
 {style="text-align: justify;"}
 
-I am on the job market.
-{style="text-align: justify;"}
+# I am on the job market.
+# {style="text-align: justify;"}
