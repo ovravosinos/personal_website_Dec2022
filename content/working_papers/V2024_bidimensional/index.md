@@ -1,5 +1,5 @@
 ---
-title: 'Multidimensional screening with substitutable attributes and costly verification'
+title: 'Multidimensional screening of strategic candidates'
 authors:
 - admin
 date: "2025-01-21T19:37:01-04:00"
