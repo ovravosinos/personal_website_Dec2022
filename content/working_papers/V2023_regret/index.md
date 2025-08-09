@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "R&R at Journal of Economic Theory"
 publication_short: ""
 
 abstract: Regret in games has so far been analyzed as if in a single-agent context with the other players' actions treated as the state of the world. I instead propose the strategic regret approach, which accounts for the division of responsibility in games. It postulates that player i's regret (for not playing a best-response) is mitigated through blame put on player j for not playing (when available) a Pareto-improving (compared to j's actual action) best-response to player i's action. I show that strategic regret brings theoretical predictions closer to existing experimental results. Last, I provide direct experimental evidence that (i) blame mitigates regret and (ii) feelings of regret and blame elicited in certain games predict behavior in vastly different games, consistent with theoretical predictions.
