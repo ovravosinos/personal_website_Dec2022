@@ -80,5 +80,5 @@ email: 'vravosinosorestis@gmail.com'
 highlight_name: false
 ---
 
-**About:** I am a Postdoctoral Scholar at the Kenneth C. Griffin Department of Economics in the University of Chicago. I work in microeconomic theory (including mechanism design, game theory, industrial organization, and competition policy), behavioral economics, and experimental economics.
+**About:** I am a Postdoctoral Scholar at the Kenneth C. Griffin Department of Economics, University of Chicago. I work in microeconomic theory (including mechanism design, game theory, industrial organization, and competition policy), behavioral economics, and experimental economics.
 {style="text-align: justify;"}
