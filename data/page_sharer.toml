@@ -19,7 +19,7 @@
 
 [[buttons]]
   id = "email"
-  url = "mailto:orestis.vravosinos@nyu.edu"
+  url = "mailto:orestis.vravosinos@uchicago.edu"
   title = "Email"
   icon_pack = "fas"
   icon = "envelope"
