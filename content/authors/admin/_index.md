@@ -18,7 +18,9 @@ role: Postdoctoral Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Kenneth C. Griffin Department of Economics — University of Chicago
+  - name: |
+      Kenneth C. Griffin Department of Economics
+      University of Chicago
     url: https://economics.uchicago.edu/
 
 # Short bio (displayed in user profile at end of posts)
