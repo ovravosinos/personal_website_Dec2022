@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Economics
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: New York University
+  - name: Kenneth C. Griffin Department of Economics — University of Chicago
     url: https://as.nyu.edu/econ.html
 
 # Short bio (displayed in user profile at end of posts)
