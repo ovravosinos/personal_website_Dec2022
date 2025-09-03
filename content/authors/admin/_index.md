@@ -19,7 +19,7 @@ role: Postdoctoral Scholar
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Kenneth C. Griffin Department of Economics — University of Chicago
-    url: https://as.nyu.edu/econ.html
+    url: [https://as.nyu.edu/econ.html](https://economics.uchicago.edu/)
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -80,5 +80,5 @@ email: 'vravosinosorestis@gmail.com'
 highlight_name: false
 ---
 
-**About:** I am a PhD student in Economics at New York University. I work in microeconomic theory (including mechanism design, game theory, industrial organization, and competition policy), behavioral economics, and experimental economics.
+**About:** I am a Postdoctoral Scholar at the Kenneth C. Griffin Department of Economics in the University of Chicago. I work in microeconomic theory (including mechanism design, game theory, industrial organization, and competition policy), behavioral economics, and experimental economics.
 {style="text-align: justify;"}
