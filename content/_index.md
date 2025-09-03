@@ -57,7 +57,7 @@ sections:
       email: orestis.vravosinos@nyu.edu
       # appointment_url: 'https://calendly.com'
       address:
-        street: Saieh Hall For Economics, 5757 S University Ave, Chicago, IL 60637
+        street: Saieh Hall For Economics, 5757 S University Ave
         city: Chicago
         region: IL
         postcode: '60637'
