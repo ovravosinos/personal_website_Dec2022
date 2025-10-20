@@ -32,7 +32,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: 'uploads/JMP_Orestis_Vravosinos.pdf'
+url_pdf: 'uploads/Multidimensional screening of strategic candidates.pdf'
 url_code: 
 url_dataset: 
 url_poster: 
