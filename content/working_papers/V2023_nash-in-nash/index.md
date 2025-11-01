@@ -1,5 +1,5 @@
 ---
-title: "A Nash-in-Nash model of corporate control and oligopolistic competition under common ownership"
+title: "Corporate control under common ownership"
 authors:
 - admin
 date: "2023-05-20T19:37:01-04:00"
