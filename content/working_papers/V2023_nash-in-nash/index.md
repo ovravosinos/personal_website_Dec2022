@@ -2,7 +2,7 @@
 title: "Corporate control under common ownership"
 authors:
 - admin
-date: "2023-05-20T19:37:01-04:00"
+date: "2025-01-01T19:37:01-04:00"
 doi: "10.2139/ssrn.4454433"
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: This paper proposes a model of corporate control and oligopolistic competition under common ownership. Each firm’s conduct results from Nash bargaining (NB) among shareholders and firms play a Nash equilibrium in Nash bargains. NB encompasses a rich class of models of corporate control under common ownership, including the current canonical model due to O’Brien and Salop (2000, OS), which has however important deficiencies. A specification of NB overcomes these deficiencies and yields theoretical results and policy implications that contradict those derived under OS. I use Nash-in-Nash to study the competitive effects of changes in corporate control providing a rationale for a policy proposal requiring institutional investors to be passive.
+abstract: I provide an axiomatic analysis of corporate control under common ownership. I show that the current canonical model of corporate control under common ownership imposes two restrictions on firm behavior: (i) that the firm is efficiently controlled, and (ii) that the distribution of power across shareholders within the firm depends only on the firm's ownership structure, and not on external factors such as the stakes of the firm's shareholders in competing firms, the strategies of other firms, or market conditions. I propose the Nash bargaining (NB) model, which models the firm's behavior as the result of asymmetric Nash bargaining among the firm's shareholders. NB generalizes the current canonical model by allowing for external factors to influence the distribution of power across the firm's shareholders. I characterize how additional restrictions on firm behavior constrain the class of relevant WAPP and NB models. The results guide researchers and practitioners on how to model corporate control under common ownership and how to robustly test the common ownership hypothesis.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -30,7 +30,7 @@ featured: false
 links:
 # - name: Custom Link
 #  url: http://example.org
-url_pdf: 'uploads/A_Nash-in-Nash_model_of_corporate_control_and_oligopolistic_competition_under_common_ownership.pdf'
+url_pdf: 'uploads/Corporate control under common ownership.pdf'
 url_code: 
 url_dataset: 
 url_poster: 
