@@ -30,7 +30,7 @@ featured: false
 links:
 # - name: Custom Link
 #  url: http://example.org
-url_pdf: 'http://rcea.org/RePEc/pdf/wp18-39.pdf'
+url_pdf: 'https://ruomoplus.lib.uom.gr/bitstream/8000/1415/1/AcroBrwEx_wp18-39.pdf_ADW6BD1.pdf'
 url_code: 
 url_dataset: 
 url_poster: 
