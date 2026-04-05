@@ -2,7 +2,7 @@
 title: "Corporate control under common ownership"
 authors:
 - admin
-date: "2025-01-01T19:37:01-04:00"
+date: "2026-01-01T19:37:01-04:00"
 doi: "10.2139/ssrn.4454433"
 
 # Schedule page publish date (NOT publication's date).
