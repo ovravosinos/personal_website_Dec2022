@@ -2,7 +2,7 @@
 title: 'Multidimensional screening of strategic candidates'
 authors:
 - admin
-date: "2025-01-21T19:37:01-04:00"
+date: "2026-01-21T19:37:01-04:00"
 doi: "10.1145/3736252.3742541"
 
 # Schedule page publish date (NOT publication's date).
