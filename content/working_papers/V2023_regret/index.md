@@ -3,7 +3,7 @@ title: "Regret, blame, and division of responsibility in games"
 authors:
 - admin
 date: "2025-01-20T19:37:01-04:00"
-doi: "10.2139/ssrn.4602748"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -28,8 +28,8 @@ abstract: Regret in games has so far been analyzed as if in a single-agent conte
 featured: false
 
 links:
-# - name: Custom Link
-#  url: http://example.org
+- name: SSRN
+  url: https://doi.org/10.2139/ssrn.4602748
 url_pdf: 'uploads/Vravosinos_Regret_blame_and_division_of_responsibility_in_games.pdf'
 url_code: 
 url_dataset: 
