@@ -3,7 +3,7 @@ title: 'Multidimensional screening of strategic candidates'
 authors:
 - admin
 date: "2026-01-21T19:37:01-04:00"
-doi: "10.1145/3736252.3742541"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -30,8 +30,8 @@ abstract: |
 featured: false
 
 links:
-# - name: Custom Link
-#   url: http://example.org
+- name: EC'25 Version
+  url: https://doi.org/10.1145/3736252.3742541
 url_pdf: 'uploads/Multidimensional screening of strategic candidates.pdf'
 url_code: 
 url_dataset: 
