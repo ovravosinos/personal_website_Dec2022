@@ -4,7 +4,7 @@ authors:
 - admin
 - Kyriakos Konstantinou
 date: "2019-04-16"
-doi: '10.1561/105.00000105'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -29,8 +29,8 @@ abstract: We argue that in the ultimatum game the effects of altruistic behavior
 featured: false
 
 links:
-# - name: Custom Link
-#  url: http://example.org
+- name: Published Version
+  url: https://doi.org/10.1561/105.00000105
 url_pdf: 'uploads/VK2019.pdf'
 url_code: 
 url_dataset: 
