@@ -5,7 +5,7 @@ authors:
 - Thanasis Stengos
 - admin
 date: '2019-05-01T19:37:01-04:00'
-doi: '10.1016/j.irfa.2018.11.002'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -28,8 +28,8 @@ abstract: We review the literature and examine the effects of shocks on bitcoin 
 featured: false
 
 links:
-# - name: Custom Link
-#  url: http://example.org
+- name: Published Version
+  url: https://doi.org/10.1016/j.irfa.2018.11.002
 url_pdf: 'https://ruomoplus.lib.uom.gr/bitstream/8000/1415/1/AcroBrwEx_wp18-39.pdf_ADW6BD1.pdf'
 url_code: 
 url_dataset: 
