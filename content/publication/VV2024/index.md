@@ -4,7 +4,7 @@ authors:
 - Xavier Vives
 - admin
 date: '2024-05-01T19:37:01-04:00'
-doi: '10.1016/j.jmateco.2024.103005'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-01-01T00:00:00Z"
@@ -27,8 +27,8 @@ abstract: The lattice-theoretic approach has had a significant impact in all fie
 featured: false
 
 links:
-# - name: Custom Link
-#  url: http://example.org
+- name: Published Version
+  url: https://doi.org/10.1016/j.jmateco.2024.103005
 url_pdf: 'uploads/Strategic_complementarity_in_games.pdf'
 url_code: 
 url_dataset: 
