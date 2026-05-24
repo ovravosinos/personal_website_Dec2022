@@ -3,7 +3,7 @@ title: "Corporate control under common ownership"
 authors:
 - admin
 date: "2026-01-01T19:37:01-04:00"
-doi: "10.2139/ssrn.4454433"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -29,8 +29,8 @@ abstract: "I provide an axiomatic analysis of corporate control under common own
 featured: false
 
 links:
-# - name: Custom Link
-#   url: http://example.org
+- name: SSRN
+  url: https://doi.org/10.2139/ssrn.4454433
 url_pdf: 'uploads/Corporate control under common ownership.pdf'
 url_code: 
 url_dataset: 
