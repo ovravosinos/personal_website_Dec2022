@@ -29,8 +29,8 @@ abstract: We examine the effects of overlapping ownership in a Cournot oligopoly
 featured: false
 
 links:
-# - name: Custom Link
-#  url: http://example.org
+- name: Published Version
+url: https://doi.org/10.1257/mic.20230331
 url_pdf: 'uploads/Free_entry_in_a_Cournot_market_with_overlapping_ownership.pdf'
 url_code: 
 url_dataset: 
