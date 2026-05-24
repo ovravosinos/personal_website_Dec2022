@@ -5,7 +5,7 @@ authors:
 - Thanasis Stengos
 - admin
 date: '2020-02-13T19:37:01-04:00'
-doi: '10.3390/jrfm13020033'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-02-13T19:37:01-04:00"
@@ -29,8 +29,8 @@ abstract: We examine the significance of fourty-one potential covariates of bitc
 featured: false
 
 links:
-# - name: Custom Link
-#  url: http://example.org
+- name: Published Version
+  url: https://doi.org/10.3390/jrfm13020033
 url_pdf: "https://www.mdpi.com/1911-8074/13/2/33/pdf"
 url_code: 
 url_dataset: 
