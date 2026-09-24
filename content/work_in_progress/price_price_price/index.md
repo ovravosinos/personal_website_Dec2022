@@ -1,5 +1,5 @@
 ---
-title: "Price discrimination and the price of price discovery"
+title: "Price discrimination and the price of price search"
 authors:
 - Ritika Verma
 - admin
@@ -30,6 +30,8 @@ abstract: ""
 featured: false
 
 links:
+- name: Abstract
+  url: 'uploads/Price_discrimination_and_the_price_of_price_search_-_abstract.pdf'
 url_pdf: 
 url_code: 
 url_dataset: 
