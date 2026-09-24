@@ -1,5 +1,5 @@
 ---
-title: "Due diligence regulation in informal auctions"
+title: "Due diligence regulation"
 authors:
 - admin
 date: "2026-09-09T19:37:01-04:00"
@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Draft coming soon"
 publication_short: ""
 
 # The abstract text is now enclosed in double quotes ("...")
