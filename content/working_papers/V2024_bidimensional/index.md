@@ -32,6 +32,8 @@ featured: false
 links:
 - name: EC'25 Version
   url: https://doi.org/10.1145/3736252.3742541
+- name: Long Version
+  url: https://orestisvravosinos.netlify.app/uploads/Multidimensional%20screening%20of%20strategic%20candidates%20-%20companion.pdf
 url_pdf: 'uploads/Multidimensional screening of strategic candidates.pdf'
 url_code: 
 url_dataset: 
