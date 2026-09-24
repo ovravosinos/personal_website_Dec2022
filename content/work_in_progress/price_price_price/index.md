@@ -3,7 +3,7 @@ title: "Price discrimination and the price of price discovery"
 authors:
 - Ritika Verma
 - admin
-date: "2026-08-08T19:37:01-04:00"
+date: "2026-07-07T19:37:01-04:00"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
