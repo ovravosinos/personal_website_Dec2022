@@ -31,7 +31,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: works_in_progress
+    id: work_in_progress
     content:
       title: Work in progress
       count: 0
