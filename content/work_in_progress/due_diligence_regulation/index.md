@@ -2,7 +2,7 @@
 title: "Due diligence regulation in informal auctions"
 authors:
 - admin
-date: "2026-07-07T19:37:01-04:00"
+date: "2026-09-09T19:37:01-04:00"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
