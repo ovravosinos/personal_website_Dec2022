@@ -31,6 +31,22 @@ sections:
       columns: '2'
       view: citation
   - block: collection
+    id: works_in_progress
+    content:
+      title: Work in progress
+      count: 0
+      # text: |-
+      #  {{% callout note %}}
+      #  Quickly discover relevant content by [filtering publications](./publication/).
+      #  {{% /callout %}}
+      filters:
+        folders:
+          - work_in_progress
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
     id: publications
     content:
       title: Publications
