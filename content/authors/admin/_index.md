@@ -83,5 +83,5 @@ highlight_name: false
 **About:** I am a Postdoctoral Scholar at the Kenneth C. Griffin Department of Economics of the University of Chicago. I completed my PhD at the Department of Economics of New York University. I work in applied microeconomic theory (including mechanism design, game theory, industrial organization, and real estate) and behavioral & experimental economics.
 {style="text-align: justify;"}
 
-**I will be on the 2026-2027 job market.** 
+**I am on the 2026-2027 job market.** 
 {style="text-align: justify;"}
