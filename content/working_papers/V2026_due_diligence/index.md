@@ -1,5 +1,5 @@
 ---
-title: "Due diligence regulation"
+title: "Due diligence regulation in informal auctions"
 authors:
 - admin
 date: "2026-09-09T19:37:01-04:00"
@@ -12,10 +12,10 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Draft coming soon"
+publication: "*Job Market Paper*"
 publication_short: ""
 
 # The abstract text is now enclosed in double quotes ("...")
@@ -29,7 +29,7 @@ abstract: ""
 featured: false
 
 links:
-url_pdf: 
+url_pdf: 'uploads/Due diligence regulation in informal auctions.pdf'
 url_code: 
 url_dataset: 
 url_poster: 
