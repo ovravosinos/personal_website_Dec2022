@@ -1,5 +1,5 @@
 ---
-title: "Due diligence regulation in informal auctions"
+title: "Due diligence regulation in auctions"
 authors:
 - admin
 date: "2026-09-09T19:37:01-04:00"
@@ -29,6 +29,8 @@ abstract: ""
 featured: false
 
 links:
+- name: SSRN
+  url: https://doi.org/10.2139/ssrn.7666319
 url_pdf: 'uploads/Due diligence regulation in informal auctions.pdf'
 url_code: 
 url_dataset: 
