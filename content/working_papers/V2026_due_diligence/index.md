@@ -31,7 +31,7 @@ featured: false
 links:
 - name: SSRN
   url: https://doi.org/10.2139/ssrn.7666319
-url_pdf: 'uploads/Due diligence regulation in informal auctions.pdf'
+url_pdf: 'uploads/Due diligence regulation in informal auctions.pdf?v=20261116'
 url_code: 
 url_dataset: 
 url_poster: 
